@@ -19,11 +19,11 @@ Sınıf  |     Öğrenci İsmi    | Numara
  Bir adet mil  (2.3 cm çapında 30, 40 cm uzunluğunda bir ucu yuvarlak bir ucu sivri bir sopa),
  Ateşin yakılacağı tahta (otasına 2 cm çapında bir yarık ve  yarığın kenarına V şeklinde bir çentik açın)
  Tabla (közü oluşturmak için çentiğin altına konulan ağaç kabuğu veya yaprak)
- Yuva (Kuru ağaç kabuğu, ot, yaprak gibi yanıcı maddelerden oluşan ve bir kuşun yuvasını andıran kısım.)
+ Yuva (Kuru ağaç kabuğu, ot, yaprak gibi yanıcı maddelerden oluşan ve bir kuşun yuvasını andıran kısım )
  Deneyi kaydetmek için kamera
  Zamanlayıcı ( kronometre )
  
- Öncelikle yayın iki ucuna ipi bağlayacağız. Ateşin yakılacağı tahtayı yere koyuyoruz ve çentiğin altına tablayı yerleştiriyoruz. Milin sivri ucunu çentiğe geçiriyoruz. İki ucuna ip bağladığımız yayın ipini milin etrafına ilmek yapıyoruz. İpin gergin olması gereklidir. Soketin içini yağlıyoruz ve sol elimizdeyken sol ayağımızı ateş yakılacak tahtanın üstüne diz çökerek bastırıyoruz. Sağ ayağımız arkada bize destek oluyor. Son olarak elimizdeki soketi milin yuvarlak ucuna yerleştirip ağırlığımızı hafiften sokete veriyoruz ve yayı hızlıca ileri geri yaparak sürtünme oluşturuyoruz. Tabla hafiften tutuştuğunda yavaşça tablayı alıyoruz ve yuva dediğimiz kolay yanan kuru otların arasına koyup avucumuzda yavaş yavaş üflüyoruz. Yuva tutuştuğunda irili ufaklı odun parçalarını önce ufaklarla başlayarak ateşin ihtiyacına göre arttırıyoruz ve ateşimizhazır oluyor. Deneyin başından itibaren ki zamanımızı kaydediyoruz ve tahmini zamanı belirliyoruz. Yaptığımız deneyi açıklıyoruz, raporumuzu hazırlıyoruz ve deneyimizi bitiriyoruz.
+ Öncelikle yayın iki ucuna ipi bağlayacağız. Ateşin yakılacağı tahtayı yere koyuyoruz ve çentiğin altına tablayı yerleştiriyoruz. Milin sivri ucunu çentiğe geçiriyoruz. İki ucuna ip bağladığımız yayın ipini milin etrafına ilmek yapıyoruz. İpin gergin olması gereklidir. Soketin içini yağlıyoruz ve sol elimizdeyken sol ayağımızı ateş yakılacak tahtanın üstüne diz çökerek bastırıyoruz. Sağ ayağımız arkada bize destek oluyor. Son olarak elimizdeki soketi milin yuvarlak ucuna yerleştirip ağırlığımızı hafiften sokete veriyoruz ve yayı hızlıca ileri geri yaparak sürtünme oluşturuyoruz. Tabla hafiften tutuştuğunda yavaşça tablayı alıyoruz ve yuva dediğimiz kolay yanan kuru otların arasına koyup avucumuzda yavaş yavaş üflüyoruz. Yuva tutuştuğunda irili ufaklı odun parçalarını önce ufaklarla başlayarak ateşin ihtiyacına göre arttırıyoruz ve ateşimiz hazır oluyor. Deneyin başından itibaren ki zamanımızı kaydediyoruz ve tahmini zamanı belirliyoruz. Yaptığımız deneyi açıklıyoruz, raporumuzu hazırlıyoruz ve deneyimizi bitiriyoruz.
  
  
   
