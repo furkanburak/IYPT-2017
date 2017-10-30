@@ -1,22 +1,36 @@
 
 
-Sınıf | Öğrenci İsmi  | Numara
--------|----------------|--------
-10-A  | Beyza Nur Azbaz | 380
-10-A   | Ayşe Yakar | 451
-10-A   | Muhammet Ali Ağırman | 425
+Sınıf  |     Öğrenci İsmi    | Numara
+-------|---------------------|--------
+10-D   |Burak Kasım Kavakdan | 365
+10-D   | Furkan Nallı        | 466
+10-D   | Furkan Türkkal      | 371
 
-#  Photograph of a Television Screen
+#  Prometheus Problem
 ## Özet
- Öncelikle bizim takım olarak seçtiğimiz proje 1991 yılından olan 'Photograph of a Television Screen' sorusudur. Amacımız sahip olduğumuz bir fotoğraf makinesinin shutter (fotoğraf makinesi kapağı) hızını ve exposure time'ını (poz süresi) hesaplamaktır.
- Shutter bir fotoğraf makinesinin fotoğraf  çekerken açılıp kapanan kapağıdır. Exposure time ise fotoğraf çekerken fotoğraf makinesinin ışık aldığı süredir. 
- Seçtiğimiz bu soruyu yaparken fotoğraf makinesi ve bir videodan yararlanacağız. Fotoğraf makinesini hızlı çekime alıp videonun fotoğraflarını çekeceğiz. Videonun süresi ve çektiğimiz fotoğraf sayısından, fotoğraf makinemizin shutter hızını hesaplayacağız. Exposure time'ı ise fotoğraf makinesini fotoğraf çekerken videoya alarak hesaplayacağız. Fotoğraf çekerken makinenin kapağının kapanmasına kadar geçen süre bize fotoğraf makinemizin ışık alma süresini verecek.
+ Bizim takımca seçtiğimiz proje 2003 yılının 17. sorusu olan "Prometheus Problem" sorusudur. Soru bizden atalarımızın ateş yakmasını sağlayan sürtünmeye dayalı fiziksel mekanızmayı; açıklamamızı, göstermemizi ve bunun tahminen ne kadar zaman süreceğini tahmin etmemizi istiyor. 
+  Bu deney için ihtiyacımız olan malzemeler; 
+ Bıçak,
+ Tutuşturucular (büyükten küçüğe doğru değişen boyda parçalar),
+ Yay (yaklaşık 70 cm uzunluğunda iki ucu yontulmuş sopa),
+ İp,
+ Bir soket,
+ Yağ (bunun için kulak kiri, yeşil ot, dudak merhemi ya da herhangi bir şey kullanabilirsiniz),
+ Bir adet mil  (2.3 cm çapında 30, 40 cm uzunluğunda bir ucu yuvarlak bir ucu sivri bir sopa),
+ Ateşin yakılacağı tahta (otasına 2 cm çapında bir yarık ve  yarığın kenarına V şeklinde bir çentik açın)
+ Tabla (közü oluşturmak için çentiğin altına konulan ağaç kabuğu veya yaprak)
+ Yuva (Kuru ağaç kabuğu, ot, yaprak gibi yanıcı maddelerden oluşan ve bir kuşun yuvasını andıran kısım.)
+ Deneyi kaydetmek için kamera
+ Zamanlayıcı ( kronometre )
+ 
+ Öncelikle yayın iki ucuna ipi bağlayacağız. Ateşin yakılacağı tahtayı yere koyuyoruz ve çentiğin altına tablayı yerleştiriyoruz. Milin sivri ucunu çentiğe geçiriyoruz. İki ucuna ip bağladığımız yayın ipini milin etrafına ilmek yapıyoruz. İpin gergin olması gereklidir. Soketin içini yağlıyoruz ve sol elimizdeyken sol ayağımızı ateş yakılacak tahtanın üstüne diz çökerek bastırıyoruz. Sağ ayağımız arkada bize destek oluyor. Son olarak elimizdeki soketi milin yuvarlak ucuna yerleştirip ağırlığımızı hafiften sokete veriyoruz ve yayı hızlıca ileri geri yaparak sürtünme oluşturuyoruz. Tabla hafiften tutuştuğunda yavaşça tablayı alıyoruz ve yuva dediğimiz kolay yanan kuru otların arasına koyup avucumuzda yavaş yavaş üflüyoruz. Yuva tutuştuğunda irili ufaklı odun parçalarını önce ufaklarla başlayarak ateşin ihtiyacına göre arttırıyoruz ve ateşimizhazır oluyor. Deneyin başından itibaren ki zamanımızı kaydediyoruz ve tahmini zamanı belirliyoruz. Yaptığımız deneyi açıklıyoruz, raporumuzu hazırlıyoruz ve deneyimizi bitiriyoruz.
+ 
+ 
+  
 
 
 ## Kaynakçalar  
 
- 1. Hiscocks, Peter D. “Measuring Camera Shutter Speed”. Ryerson University. 
-https://www.ee.ryerson.ca/~phiscock/astronomy/light-pollution/shutter-cal.pdf
- Son Erişim Tarihi: 24 Mayıs 2010
- 2. https://www.youtube.com/watch?v=gL8YAoJFzkg&t=110s
- 3. Jacobson, R.E. 2000. The Manual of Photography: Photographic and Digital Imaging (9. Baskı). Oxford, UK: Focal Press.
+ 1. https://acildurumrehberi.wordpress.com/2007/04/24/kibrit-olmadan-ates-yakmak/
+ 2. http://aesc.msu.ru/ru/archive/180-Problem-N17-Prometheus-problem.html 
+ 3. https://www.youtube.com/watch?v=S8-VsXW0m9o
